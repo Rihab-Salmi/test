@@ -1,2 +1,2 @@
 # test
-<h1>only testing</h1>
+<h1>only testing.</h1>
